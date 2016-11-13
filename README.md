@@ -28,7 +28,7 @@ Instead, we will use iteration to programmatically access and operate on all of 
 
 ## The `#each` Method and Hashes
 
-The `#each` iterator that we encountered in previous units can also be used to iterate over hashes. When we iterate over arrays, we iterate over one element at a time––each index in an array contains just one object. In a hash however, data is stored in key/value pairs so we will be iterating over those *pairs*. Let's take a look:
+The `#each` iterator that we encountered in previous labs can also be used to iterate over hashes. When we iterate over arrays, we iterate over one element at a time––each index in an array contains just one object. In a hash however, data is stored in key/value pairs so we will be iterating over those *pairs*. Let's take a look:
 
 ```ruby
 hash = {key1: "value1", key2: "value2"}
@@ -141,5 +141,3 @@ Here we are using `#each` to iterate over each pair of kids name/age. We are yie
 Then, we can use those variable names in our string interpolation to `puts` out the actual values they point to at each step of the iteration.
 
 Running the test suite with the above code should show all tests passing. You're ready to move on!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hash-iteration' title='Iterating Over Hashes With #each'>Iterating Over Hashes With #each</a> on Learn.co and start learning to code for free.</p>
