@@ -54,7 +54,7 @@ Let's try it out together:
 
 ## Code Along I: Cruise Ship
 
-**Open up this repo in your text editor to get started. Follow along with the instructions below to get your tests passing**.
+**Open up this repo and follow along with the instructions below to get your tests passing**.
 
 The good news is you're on a cruise ship! The bad news is that you're *not* on vacation. You are a cruise ship director and you're selecting the day's lucky ticket winner to the 8:00pm magic show in the super swanky *Blue Room*. The criteria for picking the winner is that this person must be staying in Suite A and their name must start with the letter "A".
 
